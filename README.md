@@ -1,5 +1,11 @@
 # slide-show-app
 
-app bilde on js vanilla
+Single page application base on javascript vanilla bootstrap & html
 
 run this app whit live server
+
+The app includes: 
+
+slide automatic 
+CRUD for picture 
+option to like for pictures
